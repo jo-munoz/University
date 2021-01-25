@@ -5,7 +5,7 @@ namespace University.BL.DTOs
     public class CourseDTO
     {
         [Required(ErrorMessage ="The field Course ID is required")]
-        public int ID { get; set; }
+        public int CourseID { get; set; }
         [Required(ErrorMessage = "The field Title is required")]
         [StringLength(50)]
         public string Title { get; set; }
