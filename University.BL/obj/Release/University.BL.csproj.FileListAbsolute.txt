@@ -1,0 +1,14 @@
+C:\Users\Developer\Source\Repos\University\University.BL\bin\Release\University.BL.dll.config
+C:\Users\Developer\Source\Repos\University\University.BL\bin\Release\University.BL.dll
+C:\Users\Developer\Source\Repos\University\University.BL\bin\Release\University.BL.pdb
+C:\Users\Developer\Source\Repos\University\University.BL\bin\Release\AutoMapper.dll
+C:\Users\Developer\Source\Repos\University\University.BL\bin\Release\EntityFramework.dll
+C:\Users\Developer\Source\Repos\University\University.BL\bin\Release\EntityFramework.SqlServer.dll
+C:\Users\Developer\Source\Repos\University\University.BL\bin\Release\AutoMapper.xml
+C:\Users\Developer\Source\Repos\University\University.BL\bin\Release\EntityFramework.xml
+C:\Users\Developer\Source\Repos\University\University.BL\bin\Release\EntityFramework.SqlServer.xml
+C:\Users\Developer\Source\Repos\University\University.BL\obj\Release\University.BL.csprojAssemblyReference.cache
+C:\Users\Developer\Source\Repos\University\University.BL\obj\Release\University.BL.csproj.CoreCompileInputs.cache
+C:\Users\Developer\Source\Repos\University\University.BL\obj\Release\University.BL.csproj.CopyComplete
+C:\Users\Developer\Source\Repos\University\University.BL\obj\Release\University.BL.dll
+C:\Users\Developer\Source\Repos\University\University.BL\obj\Release\University.BL.pdb

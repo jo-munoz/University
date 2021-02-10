@@ -26,3 +26,17 @@ C:\Users\Analista\source\repos\Videos Tutoriales\dSantafe ASP.NET Web API + Angu
 C:\Users\Analista\source\repos\Videos Tutoriales\dSantafe ASP.NET Web API + Angular\University\University.BL\obj\Debug\University.BL.dll
 C:\Users\Analista\source\repos\Videos Tutoriales\dSantafe ASP.NET Web API + Angular\University\University.BL\obj\Debug\University.BL.pdb
 C:\Users\Analista\source\repos\Videos Tutoriales\dSantafe ASP.NET Web API + Angular\University\University.BL\obj\Debug\University.BL.csprojAssemblyReference.cache
+C:\Users\Developer\Source\Repos\University\University.BL\bin\Debug\University.BL.dll.config
+C:\Users\Developer\Source\Repos\University\University.BL\bin\Debug\University.BL.dll
+C:\Users\Developer\Source\Repos\University\University.BL\bin\Debug\University.BL.pdb
+C:\Users\Developer\Source\Repos\University\University.BL\bin\Debug\AutoMapper.dll
+C:\Users\Developer\Source\Repos\University\University.BL\bin\Debug\EntityFramework.dll
+C:\Users\Developer\Source\Repos\University\University.BL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Developer\Source\Repos\University\University.BL\bin\Debug\AutoMapper.xml
+C:\Users\Developer\Source\Repos\University\University.BL\bin\Debug\EntityFramework.xml
+C:\Users\Developer\Source\Repos\University\University.BL\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Developer\Source\Repos\University\University.BL\obj\Debug\University.BL.csprojAssemblyReference.cache
+C:\Users\Developer\Source\Repos\University\University.BL\obj\Debug\University.BL.csproj.CoreCompileInputs.cache
+C:\Users\Developer\Source\Repos\University\University.BL\obj\Debug\University.BL.csproj.CopyComplete
+C:\Users\Developer\Source\Repos\University\University.BL\obj\Debug\University.BL.dll
+C:\Users\Developer\Source\Repos\University\University.BL\obj\Debug\University.BL.pdb
