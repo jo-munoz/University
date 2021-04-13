@@ -12,3 +12,17 @@ C:\Users\Developer\Source\Repos\University\University.BL\obj\Release\University.
 C:\Users\Developer\Source\Repos\University\University.BL\obj\Release\University.BL.csproj.CopyComplete
 C:\Users\Developer\Source\Repos\University\University.BL\obj\Release\University.BL.dll
 C:\Users\Developer\Source\Repos\University\University.BL\obj\Release\University.BL.pdb
+C:\Users\Analista\source\repos\Videos Tutoriales\dSantafe ASP.NET Web API + Angular\University\University.BL\bin\Release\University.BL.dll.config
+C:\Users\Analista\source\repos\Videos Tutoriales\dSantafe ASP.NET Web API + Angular\University\University.BL\bin\Release\University.BL.dll
+C:\Users\Analista\source\repos\Videos Tutoriales\dSantafe ASP.NET Web API + Angular\University\University.BL\bin\Release\University.BL.pdb
+C:\Users\Analista\source\repos\Videos Tutoriales\dSantafe ASP.NET Web API + Angular\University\University.BL\bin\Release\AutoMapper.dll
+C:\Users\Analista\source\repos\Videos Tutoriales\dSantafe ASP.NET Web API + Angular\University\University.BL\bin\Release\EntityFramework.dll
+C:\Users\Analista\source\repos\Videos Tutoriales\dSantafe ASP.NET Web API + Angular\University\University.BL\bin\Release\EntityFramework.SqlServer.dll
+C:\Users\Analista\source\repos\Videos Tutoriales\dSantafe ASP.NET Web API + Angular\University\University.BL\bin\Release\AutoMapper.xml
+C:\Users\Analista\source\repos\Videos Tutoriales\dSantafe ASP.NET Web API + Angular\University\University.BL\bin\Release\EntityFramework.xml
+C:\Users\Analista\source\repos\Videos Tutoriales\dSantafe ASP.NET Web API + Angular\University\University.BL\bin\Release\EntityFramework.SqlServer.xml
+C:\Users\Analista\source\repos\Videos Tutoriales\dSantafe ASP.NET Web API + Angular\University\University.BL\obj\Release\University.BL.csprojAssemblyReference.cache
+C:\Users\Analista\source\repos\Videos Tutoriales\dSantafe ASP.NET Web API + Angular\University\University.BL\obj\Release\University.BL.csproj.CoreCompileInputs.cache
+C:\Users\Analista\source\repos\Videos Tutoriales\dSantafe ASP.NET Web API + Angular\University\University.BL\obj\Release\University.BL.csproj.CopyComplete
+C:\Users\Analista\source\repos\Videos Tutoriales\dSantafe ASP.NET Web API + Angular\University\University.BL\obj\Release\University.BL.dll
+C:\Users\Analista\source\repos\Videos Tutoriales\dSantafe ASP.NET Web API + Angular\University\University.BL\obj\Release\University.BL.pdb

@@ -48,7 +48,7 @@
         }
 
         $.ajax({
-            url: 'https://localhost:44311/api/Courses',
+            url: 'http://localhost/University.API/api/Courses',
             type: 'POST',
             data: JSON.stringify(data), 
             contentType: "application/json",
@@ -74,7 +74,7 @@
         $grid.append($tr);
 
         $.ajax({
-            url: 'https://localhost:44311/api/Courses',
+            url: 'http://localhost/University.API/api/Courses',
             type: 'GET',
             success: function (data) {
                 $.each(data, function (index, item) {
