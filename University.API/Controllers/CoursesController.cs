@@ -14,7 +14,7 @@ namespace University.API.Controllers
     /// <summary>
     /// Controlador ApiController
     /// </summary>
-    [Authorize]
+    //[Authorize]
     [RoutePrefix("api/Courses")]
     public class CoursesController : ApiController
     {
