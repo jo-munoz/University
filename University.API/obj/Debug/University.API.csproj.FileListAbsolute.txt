@@ -352,3 +352,11 @@ C:\Users\Developer\Source\Repos\University\University.API\obj\Debug\University.A
 C:\Users\Analista\source\repos\Videos Tutoriales\dSantafe ASP.NET Web API + Angular\University\University.API\bin\University.API.xml
 C:\Users\Analista\source\repos\Videos Tutoriales\dSantafe ASP.NET Web API + Angular\University\University.API\bin\Swashbuckle.Core.dll
 C:\Users\Analista\source\repos\Videos Tutoriales\dSantafe ASP.NET Web API + Angular\University\University.API\bin\WebActivatorEx.dll
+C:\Users\Analista\source\repos\Videos Tutoriales\dSantafe ASP.NET Web API + Angular\University\University.API\bin\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Analista\source\repos\Videos Tutoriales\dSantafe ASP.NET Web API + Angular\University\University.API\bin\Microsoft.IdentityModel.Logging.dll
+C:\Users\Analista\source\repos\Videos Tutoriales\dSantafe ASP.NET Web API + Angular\University\University.API\bin\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Analista\source\repos\Videos Tutoriales\dSantafe ASP.NET Web API + Angular\University\University.API\bin\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Analista\source\repos\Videos Tutoriales\dSantafe ASP.NET Web API + Angular\University\University.API\bin\Microsoft.IdentityModel.JsonWebTokens.xml
+C:\Users\Analista\source\repos\Videos Tutoriales\dSantafe ASP.NET Web API + Angular\University\University.API\bin\Microsoft.IdentityModel.Logging.xml
+C:\Users\Analista\source\repos\Videos Tutoriales\dSantafe ASP.NET Web API + Angular\University\University.API\bin\Microsoft.IdentityModel.Tokens.xml
+C:\Users\Analista\source\repos\Videos Tutoriales\dSantafe ASP.NET Web API + Angular\University\University.API\bin\System.IdentityModel.Tokens.Jwt.xml

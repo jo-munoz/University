@@ -14,6 +14,7 @@ namespace University.API.Controllers
     /// <summary>
     /// Controlador ApiController
     /// </summary>
+    [Authorize]
     [RoutePrefix("api/Courses")]
     public class CoursesController : ApiController
     {
@@ -50,8 +51,8 @@ namespace University.API.Controllers
         /// </summary>
         /// <param name="Id"></param>
         /// <returns>Objeto de curso</returns>
-        /// <response code ="200">Ok. Devuelve el objeto solicitado.</response>        
-        /// <response code ="404">NotFount. No se cumple con la validacion del modelo.</response>        
+        /// <response code ="200">Ok. Devuelve el objeto solicitado.</response>
+        /// <response code ="404">NotFount. No se cumple con la validacion del modelo.</response>
         [HttpGet]
         public async Task<IHttpActionResult> GetById(int Id)
         {
