@@ -360,3 +360,6 @@ C:\Users\Analista\source\repos\Videos Tutoriales\dSantafe ASP.NET Web API + Angu
 C:\Users\Analista\source\repos\Videos Tutoriales\dSantafe ASP.NET Web API + Angular\University\University.API\bin\Microsoft.IdentityModel.Logging.xml
 C:\Users\Analista\source\repos\Videos Tutoriales\dSantafe ASP.NET Web API + Angular\University\University.API\bin\Microsoft.IdentityModel.Tokens.xml
 C:\Users\Analista\source\repos\Videos Tutoriales\dSantafe ASP.NET Web API + Angular\University\University.API\bin\System.IdentityModel.Tokens.Jwt.xml
+C:\Users\Analista\source\repos\Videos Tutoriales\dSantafe ASP.NET Web API + Angular\University\University.API\bin\System.Web.Cors.dll
+C:\Users\Analista\source\repos\Videos Tutoriales\dSantafe ASP.NET Web API + Angular\University\University.API\bin\System.Web.Http.Cors.dll
+C:\Users\Analista\source\repos\Videos Tutoriales\dSantafe ASP.NET Web API + Angular\University\University.API\bin\System.Web.Http.Cors.xml
