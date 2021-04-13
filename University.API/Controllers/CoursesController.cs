@@ -11,17 +11,31 @@ using University.BL.Services.Implements;
 
 namespace University.API.Controllers
 {
+    /// <summary>
+    /// Controlador ApiController
+    /// </summary>
     [RoutePrefix("api/Courses")]
     public class CoursesController : ApiController
     {
         private IMapper mapper;
         private readonly CourseService courseService = new CourseService(new CouseRepository(UniversityContext.Create()));
 
+        /// <summary>
+        /// Se instancia mapper
+        /// </summary>
         public CoursesController()
         {
             this.mapper = WebApiApplication.MapperConfiguration.CreateMapper();
         }
 
+        /// <summary>
+        /// Obtiene los objetos de cursos
+        /// </summary>
+        /// <remarks>
+        /// Aqui una descripción mas larga si se requiere
+        /// </remarks>
+        /// <returns>Objeto de curso</returns>
+        /// <response code ="200">Ok. Devuelve el objeto solicitado.</response>
         [HttpGet]
         public async Task<IHttpActionResult> GetAll()
         {
@@ -31,6 +45,13 @@ namespace University.API.Controllers
             return Ok(coursesDTO);
         }
 
+        /// <summary>
+        /// Obtiene un objeto de cursos por ID
+        /// </summary>
+        /// <param name="Id"></param>
+        /// <returns>Objeto de curso</returns>
+        /// <response code ="200">Ok. Devuelve el objeto solicitado.</response>        
+        /// <response code ="404">NotFount. No se cumple con la validacion del modelo.</response>        
         [HttpGet]
         public async Task<IHttpActionResult> GetById(int Id)
         {
@@ -44,6 +65,14 @@ namespace University.API.Controllers
             return Ok(courseDTO);
         }
 
+        /// <summary>
+        /// Crea un objeto de curso
+        /// </summary>
+        /// <param name="courseDTO"></param>
+        /// <returns>Objeto de curso</returns>
+        /// <response code ="200">Ok. Devuelve el objeto solicitado.</response>
+        /// <response code ="400">BadRequest. No se cumple con el ModelState.</response>        
+        /// <response code ="500">InternalServerError. Se ha presentado un error.</response>
         [HttpPost]
         public async Task<IHttpActionResult> Post(CourseDTO courseDTO)
         {
@@ -63,6 +92,16 @@ namespace University.API.Controllers
             }
         }
 
+        /// <summary>
+        /// Edita un objeto de curso
+        /// </summary>
+        /// <param name="courseDTO"></param>
+        /// <param name="Id"></param>
+        /// <returns>Objeto de curso</returns>
+        /// <response code ="200">Ok. Devuelve el objeto solicitado.</response>
+        /// <response code ="400">BadRequest. No se cumple con el ModelState.</response>
+        /// <response code ="404">NotFount. No se cumple con la validacion del modelo.</response>
+        /// <response code ="500">InternalServerError. Se ha presentado un error.</response>
         [HttpPut]
         public async Task<IHttpActionResult> Put(CourseDTO courseDTO, int Id)
         {
@@ -90,6 +129,14 @@ namespace University.API.Controllers
             }
         }
 
+        /// <summary>
+        /// Elimina un objeto de curso
+        /// </summary>
+        /// <param name="Id"></param>
+        /// <returns>Objeto de curso</returns>
+        /// <response code ="200">Ok. Devuelve el objeto solicitado.</response>
+        /// <response code ="404">NotFount. No se cumple con la validacion del modelo.</response>
+        /// <response code ="500">InternalServerError. Se ha presentado un error.</response>
         [HttpDelete]
         public async Task<IHttpActionResult> Delete(int Id)
         {

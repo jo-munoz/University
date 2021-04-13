@@ -349,3 +349,6 @@ C:\Users\Developer\Source\Repos\University\University.API\obj\Debug\University.A
 C:\Users\Developer\Source\Repos\University\University.API\obj\Debug\University.API.csproj.CopyComplete
 C:\Users\Developer\Source\Repos\University\University.API\obj\Debug\University.API.dll
 C:\Users\Developer\Source\Repos\University\University.API\obj\Debug\University.API.pdb
+C:\Users\Analista\source\repos\Videos Tutoriales\dSantafe ASP.NET Web API + Angular\University\University.API\bin\University.API.xml
+C:\Users\Analista\source\repos\Videos Tutoriales\dSantafe ASP.NET Web API + Angular\University\University.API\bin\Swashbuckle.Core.dll
+C:\Users\Analista\source\repos\Videos Tutoriales\dSantafe ASP.NET Web API + Angular\University\University.API\bin\WebActivatorEx.dll
