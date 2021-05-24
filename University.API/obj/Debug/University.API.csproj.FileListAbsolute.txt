@@ -1,121 +1,5 @@
-C:\Users\Analista\source\repos\University\University.API\bin\University.API.dll.config
-C:\Users\Analista\source\repos\University\University.API\bin\University.API.dll
-C:\Users\Analista\source\repos\University\University.API\bin\University.API.pdb
-C:\Users\Analista\source\repos\University\University.API\bin\roslyn\csc.exe
-C:\Users\Analista\source\repos\University\University.API\bin\roslyn\csc.exe.config
-C:\Users\Analista\source\repos\University\University.API\bin\roslyn\csc.rsp
-C:\Users\Analista\source\repos\University\University.API\bin\roslyn\csi.exe
-C:\Users\Analista\source\repos\University\University.API\bin\roslyn\csi.exe.config
-C:\Users\Analista\source\repos\University\University.API\bin\roslyn\csi.rsp
-C:\Users\Analista\source\repos\University\University.API\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
-C:\Users\Analista\source\repos\University\University.API\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
-C:\Users\Analista\source\repos\University\University.API\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
-C:\Users\Analista\source\repos\University\University.API\bin\roslyn\Microsoft.CodeAnalysis.dll
-C:\Users\Analista\source\repos\University\University.API\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
-C:\Users\Analista\source\repos\University\University.API\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
-C:\Users\Analista\source\repos\University\University.API\bin\roslyn\Microsoft.CSharp.Core.targets
-C:\Users\Analista\source\repos\University\University.API\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
-C:\Users\Analista\source\repos\University\University.API\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
-C:\Users\Analista\source\repos\University\University.API\bin\roslyn\Microsoft.Managed.Core.targets
-C:\Users\Analista\source\repos\University\University.API\bin\roslyn\Microsoft.VisualBasic.Core.targets
-C:\Users\Analista\source\repos\University\University.API\bin\roslyn\Microsoft.Win32.Primitives.dll
-C:\Users\Analista\source\repos\University\University.API\bin\roslyn\System.AppContext.dll
-C:\Users\Analista\source\repos\University\University.API\bin\roslyn\System.Collections.Immutable.dll
-C:\Users\Analista\source\repos\University\University.API\bin\roslyn\System.Console.dll
-C:\Users\Analista\source\repos\University\University.API\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
-C:\Users\Analista\source\repos\University\University.API\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
-C:\Users\Analista\source\repos\University\University.API\bin\roslyn\System.Diagnostics.StackTrace.dll
-C:\Users\Analista\source\repos\University\University.API\bin\roslyn\System.Globalization.Calendars.dll
-C:\Users\Analista\source\repos\University\University.API\bin\roslyn\System.IO.Compression.dll
-C:\Users\Analista\source\repos\University\University.API\bin\roslyn\System.IO.Compression.ZipFile.dll
-C:\Users\Analista\source\repos\University\University.API\bin\roslyn\System.IO.FileSystem.dll
-C:\Users\Analista\source\repos\University\University.API\bin\roslyn\System.IO.FileSystem.Primitives.dll
-C:\Users\Analista\source\repos\University\University.API\bin\roslyn\System.Net.Http.dll
-C:\Users\Analista\source\repos\University\University.API\bin\roslyn\System.Net.Sockets.dll
-C:\Users\Analista\source\repos\University\University.API\bin\roslyn\System.Reflection.Metadata.dll
-C:\Users\Analista\source\repos\University\University.API\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
-C:\Users\Analista\source\repos\University\University.API\bin\roslyn\System.Security.Cryptography.Algorithms.dll
-C:\Users\Analista\source\repos\University\University.API\bin\roslyn\System.Security.Cryptography.Encoding.dll
-C:\Users\Analista\source\repos\University\University.API\bin\roslyn\System.Security.Cryptography.Primitives.dll
-C:\Users\Analista\source\repos\University\University.API\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
-C:\Users\Analista\source\repos\University\University.API\bin\roslyn\System.Text.Encoding.CodePages.dll
-C:\Users\Analista\source\repos\University\University.API\bin\roslyn\System.Threading.Tasks.Extensions.dll
-C:\Users\Analista\source\repos\University\University.API\bin\roslyn\System.ValueTuple.dll
-C:\Users\Analista\source\repos\University\University.API\bin\roslyn\System.Xml.ReaderWriter.dll
-C:\Users\Analista\source\repos\University\University.API\bin\roslyn\System.Xml.XmlDocument.dll
-C:\Users\Analista\source\repos\University\University.API\bin\roslyn\System.Xml.XPath.dll
-C:\Users\Analista\source\repos\University\University.API\bin\roslyn\System.Xml.XPath.XDocument.dll
-C:\Users\Analista\source\repos\University\University.API\bin\roslyn\vbc.exe
-C:\Users\Analista\source\repos\University\University.API\bin\roslyn\vbc.exe.config
-C:\Users\Analista\source\repos\University\University.API\bin\roslyn\vbc.rsp
-C:\Users\Analista\source\repos\University\University.API\bin\roslyn\VBCSCompiler.exe
-C:\Users\Analista\source\repos\University\University.API\bin\roslyn\VBCSCompiler.exe.config
-C:\Users\Analista\source\repos\University\University.API\bin\Antlr3.Runtime.dll
-C:\Users\Analista\source\repos\University\University.API\bin\EntityFramework.dll
-C:\Users\Analista\source\repos\University\University.API\bin\EntityFramework.SqlServer.dll
-C:\Users\Analista\source\repos\University\University.API\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
-C:\Users\Analista\source\repos\University\University.API\bin\Microsoft.Web.Infrastructure.dll
-C:\Users\Analista\source\repos\University\University.API\bin\Newtonsoft.Json.dll
-C:\Users\Analista\source\repos\University\University.API\bin\System.Net.Http.Formatting.dll
-C:\Users\Analista\source\repos\University\University.API\bin\System.Web.Helpers.dll
-C:\Users\Analista\source\repos\University\University.API\bin\System.Web.Http.dll
-C:\Users\Analista\source\repos\University\University.API\bin\System.Web.Http.WebHost.dll
-C:\Users\Analista\source\repos\University\University.API\bin\System.Web.Mvc.dll
-C:\Users\Analista\source\repos\University\University.API\bin\System.Web.Optimization.dll
-C:\Users\Analista\source\repos\University\University.API\bin\System.Web.Razor.dll
-C:\Users\Analista\source\repos\University\University.API\bin\System.Web.WebPages.Deployment.dll
-C:\Users\Analista\source\repos\University\University.API\bin\System.Web.WebPages.dll
-C:\Users\Analista\source\repos\University\University.API\bin\System.Web.WebPages.Razor.dll
-C:\Users\Analista\source\repos\University\University.API\bin\University.BL.dll
-C:\Users\Analista\source\repos\University\University.API\bin\WebGrease.dll
-C:\Users\Analista\source\repos\University\University.API\bin\University.BL.pdb
-C:\Users\Analista\source\repos\University\University.API\bin\University.BL.dll.config
-C:\Users\Analista\source\repos\University\University.API\bin\EntityFramework.xml
-C:\Users\Analista\source\repos\University\University.API\bin\EntityFramework.SqlServer.xml
-C:\Users\Analista\source\repos\University\University.API\bin\Newtonsoft.Json.xml
-C:\Users\Analista\source\repos\University\University.API\bin\System.Net.Http.Formatting.xml
-C:\Users\Analista\source\repos\University\University.API\bin\System.Web.Helpers.xml
-C:\Users\Analista\source\repos\University\University.API\bin\System.Web.Http.xml
-C:\Users\Analista\source\repos\University\University.API\bin\System.Web.Http.WebHost.xml
-C:\Users\Analista\source\repos\University\University.API\bin\System.Web.Mvc.xml
-C:\Users\Analista\source\repos\University\University.API\bin\System.Web.Optimization.xml
-C:\Users\Analista\source\repos\University\University.API\bin\System.Web.Razor.xml
-C:\Users\Analista\source\repos\University\University.API\bin\System.Web.WebPages.xml
-C:\Users\Analista\source\repos\University\University.API\bin\System.Web.WebPages.Deployment.xml
-C:\Users\Analista\source\repos\University\University.API\bin\System.Web.WebPages.Razor.xml
-C:\Users\Analista\source\repos\University\University.API\bin\Antlr3.Runtime.pdb
-C:\Users\Analista\source\repos\University\University.API\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
-C:\Users\Analista\source\repos\University\University.API\bin\es\System.Net.Http.Formatting.resources.dll
-C:\Users\Analista\source\repos\University\University.API\bin\es\System.Web.Helpers.resources.dll
-C:\Users\Analista\source\repos\University\University.API\bin\es\System.Web.Http.resources.dll
-C:\Users\Analista\source\repos\University\University.API\bin\es\System.Web.Http.WebHost.resources.dll
-C:\Users\Analista\source\repos\University\University.API\bin\es\System.Web.Mvc.resources.dll
-C:\Users\Analista\source\repos\University\University.API\bin\es\System.Web.Optimization.resources.dll
-C:\Users\Analista\source\repos\University\University.API\bin\es\System.Web.Razor.resources.dll
-C:\Users\Analista\source\repos\University\University.API\bin\es\System.Web.WebPages.resources.dll
-C:\Users\Analista\source\repos\University\University.API\bin\es\System.Web.WebPages.Deployment.resources.dll
-C:\Users\Analista\source\repos\University\University.API\bin\es\System.Web.WebPages.Razor.resources.dll
-C:\Users\Analista\source\repos\University\University.API\obj\Debug\University.API.csprojAssemblyReference.cache
-C:\Users\Analista\source\repos\University\University.API\obj\Debug\University.API.csproj.CoreCompileInputs.cache
-C:\Users\Analista\source\repos\University\University.API\obj\Debug\University.API.csproj.CopyComplete
-C:\Users\Analista\source\repos\University\University.API\obj\Debug\University.API.dll
-C:\Users\Analista\source\repos\University\University.API\obj\Debug\University.API.pdb
-C:\Users\Analista\source\repos\University\University.API\bin\Microsoft.AspNet.Identity.Core.dll
-C:\Users\Analista\source\repos\University\University.API\bin\Microsoft.AspNet.Identity.Owin.dll
-C:\Users\Analista\source\repos\University\University.API\bin\Microsoft.Owin.dll
-C:\Users\Analista\source\repos\University\University.API\bin\Microsoft.Owin.Security.Cookies.dll
-C:\Users\Analista\source\repos\University\University.API\bin\Microsoft.Owin.Security.dll
-C:\Users\Analista\source\repos\University\University.API\bin\Microsoft.Owin.Security.OAuth.dll
-C:\Users\Analista\source\repos\University\University.API\bin\Owin.dll
-C:\Users\Analista\source\repos\University\University.API\bin\Microsoft.AspNet.Identity.Core.xml
-C:\Users\Analista\source\repos\University\University.API\bin\Microsoft.AspNet.Identity.Owin.xml
-C:\Users\Analista\source\repos\University\University.API\bin\Microsoft.Owin.xml
-C:\Users\Analista\source\repos\University\University.API\bin\Microsoft.Owin.Security.xml
-C:\Users\Analista\source\repos\University\University.API\bin\Microsoft.Owin.Security.Cookies.xml
-C:\Users\Analista\source\repos\University\University.API\bin\Microsoft.Owin.Security.OAuth.xml
-C:\Users\Analista\source\repos\University\University.API\bin\AutoMapper.dll
-C:\Users\Analista\source\repos\University\University.API\bin\AutoMapper.xml
 C:\Users\Analista\source\repos\Videos Tutoriales\dSantafe ASP.NET Web API + Angular\University\University.API\bin\University.API.dll.config
+C:\Users\Analista\source\repos\Videos Tutoriales\dSantafe ASP.NET Web API + Angular\University\University.API\bin\University.API.xml
 C:\Users\Analista\source\repos\Videos Tutoriales\dSantafe ASP.NET Web API + Angular\University\University.API\bin\University.API.dll
 C:\Users\Analista\source\repos\Videos Tutoriales\dSantafe ASP.NET Web API + Angular\University\University.API\bin\University.API.pdb
 C:\Users\Analista\source\repos\Videos Tutoriales\dSantafe ASP.NET Web API + Angular\University\University.API\bin\roslyn\csc.exe
@@ -174,6 +58,9 @@ C:\Users\Analista\source\repos\Videos Tutoriales\dSantafe ASP.NET Web API + Angu
 C:\Users\Analista\source\repos\Videos Tutoriales\dSantafe ASP.NET Web API + Angular\University\University.API\bin\Microsoft.AspNet.Identity.Core.dll
 C:\Users\Analista\source\repos\Videos Tutoriales\dSantafe ASP.NET Web API + Angular\University\University.API\bin\Microsoft.AspNet.Identity.Owin.dll
 C:\Users\Analista\source\repos\Videos Tutoriales\dSantafe ASP.NET Web API + Angular\University\University.API\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Analista\source\repos\Videos Tutoriales\dSantafe ASP.NET Web API + Angular\University\University.API\bin\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Analista\source\repos\Videos Tutoriales\dSantafe ASP.NET Web API + Angular\University\University.API\bin\Microsoft.IdentityModel.Logging.dll
+C:\Users\Analista\source\repos\Videos Tutoriales\dSantafe ASP.NET Web API + Angular\University\University.API\bin\Microsoft.IdentityModel.Tokens.dll
 C:\Users\Analista\source\repos\Videos Tutoriales\dSantafe ASP.NET Web API + Angular\University\University.API\bin\Microsoft.Owin.dll
 C:\Users\Analista\source\repos\Videos Tutoriales\dSantafe ASP.NET Web API + Angular\University\University.API\bin\Microsoft.Owin.Security.Cookies.dll
 C:\Users\Analista\source\repos\Videos Tutoriales\dSantafe ASP.NET Web API + Angular\University\University.API\bin\Microsoft.Owin.Security.dll
@@ -181,8 +68,12 @@ C:\Users\Analista\source\repos\Videos Tutoriales\dSantafe ASP.NET Web API + Angu
 C:\Users\Analista\source\repos\Videos Tutoriales\dSantafe ASP.NET Web API + Angular\University\University.API\bin\Microsoft.Web.Infrastructure.dll
 C:\Users\Analista\source\repos\Videos Tutoriales\dSantafe ASP.NET Web API + Angular\University\University.API\bin\Newtonsoft.Json.dll
 C:\Users\Analista\source\repos\Videos Tutoriales\dSantafe ASP.NET Web API + Angular\University\University.API\bin\Owin.dll
+C:\Users\Analista\source\repos\Videos Tutoriales\dSantafe ASP.NET Web API + Angular\University\University.API\bin\Swashbuckle.Core.dll
+C:\Users\Analista\source\repos\Videos Tutoriales\dSantafe ASP.NET Web API + Angular\University\University.API\bin\System.IdentityModel.Tokens.Jwt.dll
 C:\Users\Analista\source\repos\Videos Tutoriales\dSantafe ASP.NET Web API + Angular\University\University.API\bin\System.Net.Http.Formatting.dll
+C:\Users\Analista\source\repos\Videos Tutoriales\dSantafe ASP.NET Web API + Angular\University\University.API\bin\System.Web.Cors.dll
 C:\Users\Analista\source\repos\Videos Tutoriales\dSantafe ASP.NET Web API + Angular\University\University.API\bin\System.Web.Helpers.dll
+C:\Users\Analista\source\repos\Videos Tutoriales\dSantafe ASP.NET Web API + Angular\University\University.API\bin\System.Web.Http.Cors.dll
 C:\Users\Analista\source\repos\Videos Tutoriales\dSantafe ASP.NET Web API + Angular\University\University.API\bin\System.Web.Http.dll
 C:\Users\Analista\source\repos\Videos Tutoriales\dSantafe ASP.NET Web API + Angular\University\University.API\bin\System.Web.Http.WebHost.dll
 C:\Users\Analista\source\repos\Videos Tutoriales\dSantafe ASP.NET Web API + Angular\University\University.API\bin\System.Web.Mvc.dll
@@ -192,6 +83,7 @@ C:\Users\Analista\source\repos\Videos Tutoriales\dSantafe ASP.NET Web API + Angu
 C:\Users\Analista\source\repos\Videos Tutoriales\dSantafe ASP.NET Web API + Angular\University\University.API\bin\System.Web.WebPages.dll
 C:\Users\Analista\source\repos\Videos Tutoriales\dSantafe ASP.NET Web API + Angular\University\University.API\bin\System.Web.WebPages.Razor.dll
 C:\Users\Analista\source\repos\Videos Tutoriales\dSantafe ASP.NET Web API + Angular\University\University.API\bin\University.BL.dll
+C:\Users\Analista\source\repos\Videos Tutoriales\dSantafe ASP.NET Web API + Angular\University\University.API\bin\WebActivatorEx.dll
 C:\Users\Analista\source\repos\Videos Tutoriales\dSantafe ASP.NET Web API + Angular\University\University.API\bin\WebGrease.dll
 C:\Users\Analista\source\repos\Videos Tutoriales\dSantafe ASP.NET Web API + Angular\University\University.API\bin\University.BL.pdb
 C:\Users\Analista\source\repos\Videos Tutoriales\dSantafe ASP.NET Web API + Angular\University\University.API\bin\University.BL.dll.config
@@ -200,10 +92,15 @@ C:\Users\Analista\source\repos\Videos Tutoriales\dSantafe ASP.NET Web API + Angu
 C:\Users\Analista\source\repos\Videos Tutoriales\dSantafe ASP.NET Web API + Angular\University\University.API\bin\EntityFramework.SqlServer.xml
 C:\Users\Analista\source\repos\Videos Tutoriales\dSantafe ASP.NET Web API + Angular\University\University.API\bin\Microsoft.AspNet.Identity.Core.xml
 C:\Users\Analista\source\repos\Videos Tutoriales\dSantafe ASP.NET Web API + Angular\University\University.API\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Analista\source\repos\Videos Tutoriales\dSantafe ASP.NET Web API + Angular\University\University.API\bin\Microsoft.IdentityModel.JsonWebTokens.xml
+C:\Users\Analista\source\repos\Videos Tutoriales\dSantafe ASP.NET Web API + Angular\University\University.API\bin\Microsoft.IdentityModel.Logging.xml
+C:\Users\Analista\source\repos\Videos Tutoriales\dSantafe ASP.NET Web API + Angular\University\University.API\bin\Microsoft.IdentityModel.Tokens.xml
 C:\Users\Analista\source\repos\Videos Tutoriales\dSantafe ASP.NET Web API + Angular\University\University.API\bin\Microsoft.Owin.xml
 C:\Users\Analista\source\repos\Videos Tutoriales\dSantafe ASP.NET Web API + Angular\University\University.API\bin\Microsoft.Owin.Security.xml
 C:\Users\Analista\source\repos\Videos Tutoriales\dSantafe ASP.NET Web API + Angular\University\University.API\bin\Microsoft.Owin.Security.Cookies.xml
 C:\Users\Analista\source\repos\Videos Tutoriales\dSantafe ASP.NET Web API + Angular\University\University.API\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Analista\source\repos\Videos Tutoriales\dSantafe ASP.NET Web API + Angular\University\University.API\bin\System.IdentityModel.Tokens.Jwt.xml
+C:\Users\Analista\source\repos\Videos Tutoriales\dSantafe ASP.NET Web API + Angular\University\University.API\bin\System.Web.Http.Cors.xml
 C:\Users\Analista\source\repos\Videos Tutoriales\dSantafe ASP.NET Web API + Angular\University\University.API\bin\Newtonsoft.Json.xml
 C:\Users\Analista\source\repos\Videos Tutoriales\dSantafe ASP.NET Web API + Angular\University\University.API\bin\System.Net.Http.Formatting.xml
 C:\Users\Analista\source\repos\Videos Tutoriales\dSantafe ASP.NET Web API + Angular\University\University.API\bin\System.Web.Helpers.xml
@@ -232,134 +129,3 @@ C:\Users\Analista\source\repos\Videos Tutoriales\dSantafe ASP.NET Web API + Angu
 C:\Users\Analista\source\repos\Videos Tutoriales\dSantafe ASP.NET Web API + Angular\University\University.API\obj\Debug\University.API.csproj.CopyComplete
 C:\Users\Analista\source\repos\Videos Tutoriales\dSantafe ASP.NET Web API + Angular\University\University.API\obj\Debug\University.API.dll
 C:\Users\Analista\source\repos\Videos Tutoriales\dSantafe ASP.NET Web API + Angular\University\University.API\obj\Debug\University.API.pdb
-C:\Users\Developer\Source\Repos\University\University.API\bin\University.API.dll.config
-C:\Users\Developer\Source\Repos\University\University.API\bin\University.API.dll
-C:\Users\Developer\Source\Repos\University\University.API\bin\University.API.pdb
-C:\Users\Developer\Source\Repos\University\University.API\bin\roslyn\csc.exe
-C:\Users\Developer\Source\Repos\University\University.API\bin\roslyn\csc.exe.config
-C:\Users\Developer\Source\Repos\University\University.API\bin\roslyn\csc.rsp
-C:\Users\Developer\Source\Repos\University\University.API\bin\roslyn\csi.exe
-C:\Users\Developer\Source\Repos\University\University.API\bin\roslyn\csi.exe.config
-C:\Users\Developer\Source\Repos\University\University.API\bin\roslyn\csi.rsp
-C:\Users\Developer\Source\Repos\University\University.API\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
-C:\Users\Developer\Source\Repos\University\University.API\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
-C:\Users\Developer\Source\Repos\University\University.API\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
-C:\Users\Developer\Source\Repos\University\University.API\bin\roslyn\Microsoft.CodeAnalysis.dll
-C:\Users\Developer\Source\Repos\University\University.API\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
-C:\Users\Developer\Source\Repos\University\University.API\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
-C:\Users\Developer\Source\Repos\University\University.API\bin\roslyn\Microsoft.CSharp.Core.targets
-C:\Users\Developer\Source\Repos\University\University.API\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
-C:\Users\Developer\Source\Repos\University\University.API\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
-C:\Users\Developer\Source\Repos\University\University.API\bin\roslyn\Microsoft.Managed.Core.targets
-C:\Users\Developer\Source\Repos\University\University.API\bin\roslyn\Microsoft.VisualBasic.Core.targets
-C:\Users\Developer\Source\Repos\University\University.API\bin\roslyn\Microsoft.Win32.Primitives.dll
-C:\Users\Developer\Source\Repos\University\University.API\bin\roslyn\System.AppContext.dll
-C:\Users\Developer\Source\Repos\University\University.API\bin\roslyn\System.Collections.Immutable.dll
-C:\Users\Developer\Source\Repos\University\University.API\bin\roslyn\System.Console.dll
-C:\Users\Developer\Source\Repos\University\University.API\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
-C:\Users\Developer\Source\Repos\University\University.API\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
-C:\Users\Developer\Source\Repos\University\University.API\bin\roslyn\System.Diagnostics.StackTrace.dll
-C:\Users\Developer\Source\Repos\University\University.API\bin\roslyn\System.Globalization.Calendars.dll
-C:\Users\Developer\Source\Repos\University\University.API\bin\roslyn\System.IO.Compression.dll
-C:\Users\Developer\Source\Repos\University\University.API\bin\roslyn\System.IO.Compression.ZipFile.dll
-C:\Users\Developer\Source\Repos\University\University.API\bin\roslyn\System.IO.FileSystem.dll
-C:\Users\Developer\Source\Repos\University\University.API\bin\roslyn\System.IO.FileSystem.Primitives.dll
-C:\Users\Developer\Source\Repos\University\University.API\bin\roslyn\System.Net.Http.dll
-C:\Users\Developer\Source\Repos\University\University.API\bin\roslyn\System.Net.Sockets.dll
-C:\Users\Developer\Source\Repos\University\University.API\bin\roslyn\System.Reflection.Metadata.dll
-C:\Users\Developer\Source\Repos\University\University.API\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
-C:\Users\Developer\Source\Repos\University\University.API\bin\roslyn\System.Security.Cryptography.Algorithms.dll
-C:\Users\Developer\Source\Repos\University\University.API\bin\roslyn\System.Security.Cryptography.Encoding.dll
-C:\Users\Developer\Source\Repos\University\University.API\bin\roslyn\System.Security.Cryptography.Primitives.dll
-C:\Users\Developer\Source\Repos\University\University.API\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
-C:\Users\Developer\Source\Repos\University\University.API\bin\roslyn\System.Text.Encoding.CodePages.dll
-C:\Users\Developer\Source\Repos\University\University.API\bin\roslyn\System.Threading.Tasks.Extensions.dll
-C:\Users\Developer\Source\Repos\University\University.API\bin\roslyn\System.ValueTuple.dll
-C:\Users\Developer\Source\Repos\University\University.API\bin\roslyn\System.Xml.ReaderWriter.dll
-C:\Users\Developer\Source\Repos\University\University.API\bin\roslyn\System.Xml.XmlDocument.dll
-C:\Users\Developer\Source\Repos\University\University.API\bin\roslyn\System.Xml.XPath.dll
-C:\Users\Developer\Source\Repos\University\University.API\bin\roslyn\System.Xml.XPath.XDocument.dll
-C:\Users\Developer\Source\Repos\University\University.API\bin\roslyn\vbc.exe
-C:\Users\Developer\Source\Repos\University\University.API\bin\roslyn\vbc.exe.config
-C:\Users\Developer\Source\Repos\University\University.API\bin\roslyn\vbc.rsp
-C:\Users\Developer\Source\Repos\University\University.API\bin\roslyn\VBCSCompiler.exe
-C:\Users\Developer\Source\Repos\University\University.API\bin\roslyn\VBCSCompiler.exe.config
-C:\Users\Developer\Source\Repos\University\University.API\bin\Antlr3.Runtime.dll
-C:\Users\Developer\Source\Repos\University\University.API\bin\AutoMapper.dll
-C:\Users\Developer\Source\Repos\University\University.API\bin\EntityFramework.dll
-C:\Users\Developer\Source\Repos\University\University.API\bin\EntityFramework.SqlServer.dll
-C:\Users\Developer\Source\Repos\University\University.API\bin\Microsoft.AspNet.Identity.Core.dll
-C:\Users\Developer\Source\Repos\University\University.API\bin\Microsoft.AspNet.Identity.Owin.dll
-C:\Users\Developer\Source\Repos\University\University.API\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
-C:\Users\Developer\Source\Repos\University\University.API\bin\Microsoft.Owin.dll
-C:\Users\Developer\Source\Repos\University\University.API\bin\Microsoft.Owin.Security.Cookies.dll
-C:\Users\Developer\Source\Repos\University\University.API\bin\Microsoft.Owin.Security.dll
-C:\Users\Developer\Source\Repos\University\University.API\bin\Microsoft.Owin.Security.OAuth.dll
-C:\Users\Developer\Source\Repos\University\University.API\bin\Microsoft.Web.Infrastructure.dll
-C:\Users\Developer\Source\Repos\University\University.API\bin\Newtonsoft.Json.dll
-C:\Users\Developer\Source\Repos\University\University.API\bin\Owin.dll
-C:\Users\Developer\Source\Repos\University\University.API\bin\System.Net.Http.Formatting.dll
-C:\Users\Developer\Source\Repos\University\University.API\bin\System.Web.Helpers.dll
-C:\Users\Developer\Source\Repos\University\University.API\bin\System.Web.Http.dll
-C:\Users\Developer\Source\Repos\University\University.API\bin\System.Web.Http.WebHost.dll
-C:\Users\Developer\Source\Repos\University\University.API\bin\System.Web.Mvc.dll
-C:\Users\Developer\Source\Repos\University\University.API\bin\System.Web.Optimization.dll
-C:\Users\Developer\Source\Repos\University\University.API\bin\System.Web.Razor.dll
-C:\Users\Developer\Source\Repos\University\University.API\bin\System.Web.WebPages.Deployment.dll
-C:\Users\Developer\Source\Repos\University\University.API\bin\System.Web.WebPages.dll
-C:\Users\Developer\Source\Repos\University\University.API\bin\System.Web.WebPages.Razor.dll
-C:\Users\Developer\Source\Repos\University\University.API\bin\University.BL.dll
-C:\Users\Developer\Source\Repos\University\University.API\bin\WebGrease.dll
-C:\Users\Developer\Source\Repos\University\University.API\bin\University.BL.pdb
-C:\Users\Developer\Source\Repos\University\University.API\bin\University.BL.dll.config
-C:\Users\Developer\Source\Repos\University\University.API\bin\AutoMapper.xml
-C:\Users\Developer\Source\Repos\University\University.API\bin\EntityFramework.xml
-C:\Users\Developer\Source\Repos\University\University.API\bin\EntityFramework.SqlServer.xml
-C:\Users\Developer\Source\Repos\University\University.API\bin\Microsoft.AspNet.Identity.Core.xml
-C:\Users\Developer\Source\Repos\University\University.API\bin\Microsoft.AspNet.Identity.Owin.xml
-C:\Users\Developer\Source\Repos\University\University.API\bin\Microsoft.Owin.xml
-C:\Users\Developer\Source\Repos\University\University.API\bin\Microsoft.Owin.Security.xml
-C:\Users\Developer\Source\Repos\University\University.API\bin\Microsoft.Owin.Security.Cookies.xml
-C:\Users\Developer\Source\Repos\University\University.API\bin\Microsoft.Owin.Security.OAuth.xml
-C:\Users\Developer\Source\Repos\University\University.API\bin\Newtonsoft.Json.xml
-C:\Users\Developer\Source\Repos\University\University.API\bin\System.Net.Http.Formatting.xml
-C:\Users\Developer\Source\Repos\University\University.API\bin\System.Web.Helpers.xml
-C:\Users\Developer\Source\Repos\University\University.API\bin\System.Web.Http.xml
-C:\Users\Developer\Source\Repos\University\University.API\bin\System.Web.Http.WebHost.xml
-C:\Users\Developer\Source\Repos\University\University.API\bin\System.Web.Mvc.xml
-C:\Users\Developer\Source\Repos\University\University.API\bin\System.Web.Optimization.xml
-C:\Users\Developer\Source\Repos\University\University.API\bin\System.Web.Razor.xml
-C:\Users\Developer\Source\Repos\University\University.API\bin\System.Web.WebPages.xml
-C:\Users\Developer\Source\Repos\University\University.API\bin\System.Web.WebPages.Deployment.xml
-C:\Users\Developer\Source\Repos\University\University.API\bin\System.Web.WebPages.Razor.xml
-C:\Users\Developer\Source\Repos\University\University.API\bin\Antlr3.Runtime.pdb
-C:\Users\Developer\Source\Repos\University\University.API\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
-C:\Users\Developer\Source\Repos\University\University.API\bin\es\System.Net.Http.Formatting.resources.dll
-C:\Users\Developer\Source\Repos\University\University.API\bin\es\System.Web.Helpers.resources.dll
-C:\Users\Developer\Source\Repos\University\University.API\bin\es\System.Web.Http.resources.dll
-C:\Users\Developer\Source\Repos\University\University.API\bin\es\System.Web.Http.WebHost.resources.dll
-C:\Users\Developer\Source\Repos\University\University.API\bin\es\System.Web.Mvc.resources.dll
-C:\Users\Developer\Source\Repos\University\University.API\bin\es\System.Web.Optimization.resources.dll
-C:\Users\Developer\Source\Repos\University\University.API\bin\es\System.Web.Razor.resources.dll
-C:\Users\Developer\Source\Repos\University\University.API\bin\es\System.Web.WebPages.resources.dll
-C:\Users\Developer\Source\Repos\University\University.API\bin\es\System.Web.WebPages.Deployment.resources.dll
-C:\Users\Developer\Source\Repos\University\University.API\bin\es\System.Web.WebPages.Razor.resources.dll
-C:\Users\Developer\Source\Repos\University\University.API\obj\Debug\University.API.csprojAssemblyReference.cache
-C:\Users\Developer\Source\Repos\University\University.API\obj\Debug\University.API.csproj.CoreCompileInputs.cache
-C:\Users\Developer\Source\Repos\University\University.API\obj\Debug\University.API.csproj.CopyComplete
-C:\Users\Developer\Source\Repos\University\University.API\obj\Debug\University.API.dll
-C:\Users\Developer\Source\Repos\University\University.API\obj\Debug\University.API.pdb
-C:\Users\Analista\source\repos\Videos Tutoriales\dSantafe ASP.NET Web API + Angular\University\University.API\bin\University.API.xml
-C:\Users\Analista\source\repos\Videos Tutoriales\dSantafe ASP.NET Web API + Angular\University\University.API\bin\Swashbuckle.Core.dll
-C:\Users\Analista\source\repos\Videos Tutoriales\dSantafe ASP.NET Web API + Angular\University\University.API\bin\WebActivatorEx.dll
-C:\Users\Analista\source\repos\Videos Tutoriales\dSantafe ASP.NET Web API + Angular\University\University.API\bin\Microsoft.IdentityModel.JsonWebTokens.dll
-C:\Users\Analista\source\repos\Videos Tutoriales\dSantafe ASP.NET Web API + Angular\University\University.API\bin\Microsoft.IdentityModel.Logging.dll
-C:\Users\Analista\source\repos\Videos Tutoriales\dSantafe ASP.NET Web API + Angular\University\University.API\bin\Microsoft.IdentityModel.Tokens.dll
-C:\Users\Analista\source\repos\Videos Tutoriales\dSantafe ASP.NET Web API + Angular\University\University.API\bin\System.IdentityModel.Tokens.Jwt.dll
-C:\Users\Analista\source\repos\Videos Tutoriales\dSantafe ASP.NET Web API + Angular\University\University.API\bin\Microsoft.IdentityModel.JsonWebTokens.xml
-C:\Users\Analista\source\repos\Videos Tutoriales\dSantafe ASP.NET Web API + Angular\University\University.API\bin\Microsoft.IdentityModel.Logging.xml
-C:\Users\Analista\source\repos\Videos Tutoriales\dSantafe ASP.NET Web API + Angular\University\University.API\bin\Microsoft.IdentityModel.Tokens.xml
-C:\Users\Analista\source\repos\Videos Tutoriales\dSantafe ASP.NET Web API + Angular\University\University.API\bin\System.IdentityModel.Tokens.Jwt.xml
-C:\Users\Analista\source\repos\Videos Tutoriales\dSantafe ASP.NET Web API + Angular\University\University.API\bin\System.Web.Cors.dll
-C:\Users\Analista\source\repos\Videos Tutoriales\dSantafe ASP.NET Web API + Angular\University\University.API\bin\System.Web.Http.Cors.dll
-C:\Users\Analista\source\repos\Videos Tutoriales\dSantafe ASP.NET Web API + Angular\University\University.API\bin\System.Web.Http.Cors.xml
